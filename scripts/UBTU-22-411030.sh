@@ -16,12 +16,11 @@
 .NOTES
     Author          : Kenneth Clendenin
     AI Contribution : Script generated with assistance from GitHub Copilot and OpenAI ChatGPT.
-    Validation      : Final version reviewed, refined, and validated as functional 
-                      based on Tenable scan results.
+    Validation      : Final version reviewed, refined, and validated as functional based on Tenable scan results.
     LinkedIn        : https://www.linkedin.com/in/kenneth-clendenin/
     GitHub          : https://github.com/KennethClendenin
     Date Created    : 2025-06-17
-    Last Modified   : 2025-06-17
+    Last Modified   : 2025-06-19
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
