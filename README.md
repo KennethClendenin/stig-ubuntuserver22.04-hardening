@@ -1,6 +1,6 @@
 # [Ubuntu Server 22.04 STIG Bash Hardening Scripts](https://github.com/KennethClendenin/stig-ubuntuserver22.04-hardening/tree/main/scripts)
 
-This repository contains Bash scripts developed to implement specific Ubuntu Server 22.04 security controls, based on guidance from [STIGAVIEW](https://stigaview.com/), which references DISA STIGs (Security Technical Implementation Guides).
+This repository contains Bash scripts developed to implement specific Ubuntu Server 22.04 security controls, based on guidance from [STIGAVIEW](https://stigaview.com/), which references DISA STIGs (Security Technical Implementation Guides - V2R4).
 
 Each script focuses on a single control, uses a modular structure, and includes optional toggles for lab testing or demonstration purposes.
 
